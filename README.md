@@ -41,8 +41,12 @@ yarn install
 #### Option #2 - Netlify
 1. Netlify apps > new site from git > choose repo > deploy site
 
-## Meta Tags
+## Going Further
+#### Meta Tags
 To use the gem `middlman-metaman`, [follow these setup instructions](https://github.com/cacheventures/middleman-metaman/)
+
+#### Google Analytics
+To see where your users are coming from, [use Google Analytics](https://analytics.google.com/)
 
 ## Preinstalled
 - Bootstrap CSS
