@@ -9,10 +9,14 @@ A simple way to build static pages with a Rails feel.
 - [Sass](https://sass-lang.com)
 
 ## Init a new project
-1. Clone the repository `git clone git@github.com:dmbf29/middleman-boilerplate.git` `NAME_OF_YOUR_PROJECT`
-2. Remove template git `git remote remove origin`
-3. Start a new git repo `git init`
-4. Create repo on Github `hub create`
+1. Clone the repository <br>
+`git clone git@github.com:dmbf29/middleman-boilerplate.git` `NAME_OF_YOUR_PROJECT`
+2. Remove template git <br>
+`git remote remove origin`
+3. Start a new git repo <br>
+`git init`
+4. Create repo on Github <br>
+`hub create`
 
 ### Installation
 *Only if you don't have bundler or yarn*
