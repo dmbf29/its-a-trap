@@ -1,1 +1,12 @@
 // Specific CSS for your home-page
+.welcome {
+  background-image: image_url('its_a_trap.png');
+  background-size: contain;
+  height: 100vh;
+  background-repeat: no-repeat;
+  background-position: center;
+}
+
+body {
+  background-color: white;
+}
