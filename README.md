@@ -19,8 +19,8 @@ A simple way to build static pages with a Rails feel.
 `hub create`
 
 ### Installation
-*Only if you don't have bundler or yarn*
 ```
+# Le Wagon Students, skip this
 gem install bundler
 brew install yarn
 ```
