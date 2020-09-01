@@ -34,12 +34,19 @@ yarn install
 - `middleman`
 
 ## Deploy
-1. `rake publish`
-2. Go to your Github repository > settings > github pages (Options) and select your build branch
-3. Website is deployed !
 
-## Meta Tags
+#### Option #1 - Github Pages
+1. Go to your Github repository > settings > github pages (Options) and select your build branch
+
+#### Option #2 - Netlify
+1. Netlify apps > new site from git > choose repo > deploy site
+
+## Going Further
+#### Meta Tags
 To use the gem `middlman-metaman`, [follow these setup instructions](https://github.com/cacheventures/middleman-metaman/)
+
+#### Google Analytics
+To see where your users are coming from, [use Google Analytics](https://analytics.google.com/)
 
 ## Preinstalled
 - Bootstrap CSS
